@@ -1,0 +1,26 @@
+{
+  "name": "coding-challenges-javascript",
+  "version": "1.0.0",
+  "description": "Javascript Coding Challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamsinghsanjay/coding-challenges-javascript.git"
+  },
+  "keywords": [
+    "coding",
+    "challenges",
+    "javascript"
+  ],
+  "author": "Sanjay Singh",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/iamsinghsanjay/coding-challenges-javascript/issues"
+  },
+  "homepage": "https://github.com/iamsinghsanjay/coding-challenges-javascript#readme"
+}

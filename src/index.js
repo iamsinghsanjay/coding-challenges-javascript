@@ -1,6 +1,6 @@
 console.log("Testing...");
 
-// import "./challengesOne/ReverseAnArrayWithoutusingReverse.js"
-// import "./challengesOne/CheckIfAnArrayIsPalindrome.js"
-// import "./challengesOne/MaximumDifferenceBetweenAnyTwoElements.js"
-// import "./challengesOne/SumOfElementsAtEvenIndicesOnly.js"
+// import "./arrays/ReverseAnArrayWithoutusingReverse.js"
+// import "./arrays/CheckIfAnArrayIsPalindrome.js"
+// import "./arrays/MaximumDifferenceBetweenAnyTwoElements.js"
+// import "./arrays/SumOfEvenIndices.js"

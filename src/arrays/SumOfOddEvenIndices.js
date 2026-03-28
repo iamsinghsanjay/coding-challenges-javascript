@@ -2,8 +2,19 @@
 FUNCTION sumEvenIndices(arr):
     sum ← 0
 
-    FOR i FROM 0 TO length(arr) - 1 STEP 2:
-        sum ← sum + arr[i]
+    FOR i FROM 0 TO length(arr)
+        IF i MOD 2 IS 0 THEN
+            sum ← sum + arr[i]
+
+    RETURN sum
+
+ ** Find the sum of elements at even indices only.
+FUNCTION sumOddIndices(arr):
+    sum ← 0
+
+    FOR i FROM 0 TO length(arr)
+        IF i MOD 2 IS NOT 0 THEN
+            sum ← sum + arr[i]
 
     RETURN sum
 */

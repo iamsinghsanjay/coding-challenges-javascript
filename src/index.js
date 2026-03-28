@@ -4,3 +4,4 @@ console.log("Testing...");
 // import "./arrays/CheckIfAnArrayIsPalindrome.js"
 // import "./arrays/MaximumDifferenceBetweenAnyTwoElements.js"
 // import "./arrays/SumOfEvenIndices.js"
+// import "./arrays/RotateByOnePosition.js"

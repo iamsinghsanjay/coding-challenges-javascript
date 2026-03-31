@@ -102,4 +102,4 @@ Find longest subarray with sum ≤ k.
 Solve stock buy-sell max profit variations.
 Find maximum difference with constraints.
 Find minimum subarray to remove to make sorted.
-Design array-based data structure with O(1) ops (insert/delete/random).
+Design array-based data structure with O(1) ops (insert/delete/random)..
